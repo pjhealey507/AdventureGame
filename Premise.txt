@@ -1,1 +1,2 @@
 A game about a baby escaping the babysitter in the house
+The player must use the Rattle, Keys, Pink Gum, and Blue Gum items to progress.
